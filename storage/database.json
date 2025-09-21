@@ -1,0 +1,19 @@
+{
+  "users": {
+    "62831428898242@s.whatsapp.net": {},
+    "6282346841421@s.whatsapp.net": {},
+    "183438455889994@lid": {}
+  },
+  "groups": {
+    "120363404356448767@g.us": {
+      "antilink": false,
+      "antilink2": true,
+      "bljpm": false
+    }
+  },
+  "settings": {
+    "welcome": true,
+    "developer": [],
+    "reseller": []
+  }
+}
